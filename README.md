@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesha KS
 - 👀 I’m interested in Codes
-- 🌱 I’m currently working as an intern in Epsilon India
+- 🌱 I’m currently working as a Software Engineer in Epsilon India
 - 📫 How to reach me - 
 
 <!---
